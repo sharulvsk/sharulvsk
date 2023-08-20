@@ -1,8 +1,8 @@
 - 👋 Hi, I’m shankaripriya S
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on Coding,Violin
-- 📫 How to reach me 
+
+- 📫 How to reach me using  shankaripriya609@gmail.com
 
 <!---
 shankaripriya S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
